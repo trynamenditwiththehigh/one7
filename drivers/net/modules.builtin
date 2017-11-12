@@ -1,0 +1,4 @@
+kernel/drivers/net/tun.ko
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/ppp/ppp_generic.ko
+kernel/drivers/net/slip/slhc.ko

@@ -1,0 +1,3 @@
+kernel/drivers/soc/qcom/rpm_stats.ko
+kernel/drivers/soc/qcom/rpm_master_stat.ko
+kernel/drivers/soc/qcom/rpm_log.ko
